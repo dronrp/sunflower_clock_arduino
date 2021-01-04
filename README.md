@@ -1,1 +1,2 @@
-# sunflower_clock_arduino
+# Sunflower clock with Arduino
+Arduino project
