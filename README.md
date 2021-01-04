@@ -1,2 +1,2 @@
 # Sunflower clock with Arduino
-Arduino project
+Arduino based sunflower clock which follows the light.
